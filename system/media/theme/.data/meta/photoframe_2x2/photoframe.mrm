@@ -1,0 +1,41 @@
+{
+  "localId": "photoframe",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/photoframe/photoframe_2x2.mtz",
+  "metaPath": "/system/media/theme/.data/meta/photoframe_2x2/photoframe.mrm",
+  "contentPath": "/system/media/theme/.data/content/photoframe_2x2/photoframe.mrc",
+  "hash": "b9fbaf02711fd7a0bf90d525f0e52dbf5c9af5ed",
+  "size": 52338,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "Default PhotoFrame 2x2",
+  "description": null,
+  "author": null,
+  "designer": null,
+  "version": "1.2",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/photoframe_2x2/photoframe/preview_photoframe_0.png"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/photoframe_2x2/photoframe/preview_photoframe_0.png"
+  ],
+  "titles": {
+    "en_US": "Default",
+    "sk_SK": "Pôvodná",
+    "cs_CZ": "Původní",
+    "pl_PL": "Domyślny",
+    "fr_FR": "Par défaut",
+    "bg_BG": "Default",
+    "hr_HR": "Zadano",
+    "it_IT": "Default",
+    "hu_HU": "Default",
+    "zh_CN": "Default",
+    "zh_TW": "預設"
+  },  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}

@@ -1,0 +1,41 @@
+{
+  "localId": "clock",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/simple_clock_2x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/clock.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/clock.mrc",
+  "hash": "182f21a8b3b666a061583487be5948f2aec412ed",
+  "size": 131118,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "简洁时钟(小左)",
+  "description": null,
+  "author": "MIUI",
+  "designer": "MIUI",
+  "version": "1.0",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/clock/preview_clock_0.jpg"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/clock/preview_clock_0.jpg"
+  ],
+  "titles": {
+    "en_US": "Default",
+    "sk_SK": "Pôvodná",
+    "cs_CZ": "Původní",
+    "pl_PL": "Domyślny",
+    "fr_FR": "Par défaut",
+    "bg_BG": "Default",
+    "hr_HR": "Zadano",
+    "it_IT": "Default",
+    "hu_HU": "Default",
+    "zh_CN": "Default",
+    "zh_TW": "預設"
+  },  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
